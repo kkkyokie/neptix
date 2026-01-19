@@ -808,6 +808,7 @@ local result = (function()
     return getgenv().SCRIPT_KEY
 end)()
 
+print("works")
 
 -- This file was protected using Luraph Obfuscator v14.5.2 [https://lura.ph/]
 
